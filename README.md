@@ -1,4 +1,3 @@
-README.md
 👋 Hi, I’m @mahaskoro
 
 👀 I’m interested in automation
