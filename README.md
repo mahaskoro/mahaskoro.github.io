@@ -1,7 +1,10 @@
-echo "# mahaskoro.github.io" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mahaskoro/mahaskoro.github.io.git
-git push -u origin main
+README.md
+👋 Hi, I’m @mahaskoro
+
+👀 I’m interested in automation
+
+🌱 I’m currently learning google appscript
+
+💞️ I’m looking to collaborate on ...
+
+📫 How to reach me ...
